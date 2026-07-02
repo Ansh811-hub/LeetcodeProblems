@@ -16,6 +16,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
+| [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +37,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
