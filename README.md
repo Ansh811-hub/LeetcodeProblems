@@ -16,6 +16,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
+| [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -41,4 +42,12 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
