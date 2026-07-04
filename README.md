@@ -15,6 +15,7 @@ Leetcode Important Interview Famous Questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
@@ -53,4 +54,8 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
