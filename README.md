@@ -23,6 +23,7 @@ Leetcode Important Interview Famous Questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 ## Sorting
 |  |
