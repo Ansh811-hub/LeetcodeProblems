@@ -13,6 +13,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -72,6 +74,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
