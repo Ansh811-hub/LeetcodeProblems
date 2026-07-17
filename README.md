@@ -52,6 +52,7 @@ Leetcode Important Interview Famous Questions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -108,4 +109,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
