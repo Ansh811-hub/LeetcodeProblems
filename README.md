@@ -56,6 +56,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -119,6 +120,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
