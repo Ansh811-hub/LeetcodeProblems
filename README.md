@@ -48,6 +48,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -130,8 +131,10 @@ Leetcode Important Interview Famous Questions
 | [0206-reverse-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
