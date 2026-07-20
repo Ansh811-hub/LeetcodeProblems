@@ -137,4 +137,8 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
