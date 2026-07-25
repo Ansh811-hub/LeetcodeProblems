@@ -45,6 +45,7 @@ Leetcode Important Interview Famous Questions
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ Leetcode Important Interview Famous Questions
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
