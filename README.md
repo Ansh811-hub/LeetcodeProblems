@@ -30,6 +30,7 @@ Leetcode Important Interview Famous Questions
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
@@ -42,11 +43,13 @@ Leetcode Important Interview Famous Questions
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -71,6 +74,7 @@ Leetcode Important Interview Famous Questions
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 ## Backtracking
@@ -83,6 +87,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +96,7 @@ Leetcode Important Interview Famous Questions
 | [0142-linked-list-cycle-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
