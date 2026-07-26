@@ -8,6 +8,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
@@ -26,6 +27,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
