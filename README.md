@@ -30,6 +30,7 @@ Leetcode Important Interview Famous Questions
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
@@ -69,6 +70,7 @@ Leetcode Important Interview Famous Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -116,6 +118,7 @@ Leetcode Important Interview Famous Questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
