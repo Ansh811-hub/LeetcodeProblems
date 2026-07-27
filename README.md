@@ -42,6 +42,7 @@ Leetcode Important Interview Famous Questions
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -92,6 +93,7 @@ Leetcode Important Interview Famous Questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 ## Backtracking
