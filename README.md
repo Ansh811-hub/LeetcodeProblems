@@ -23,6 +23,7 @@ Leetcode Important Interview Famous Questions
 | [0020-valid-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -186,4 +187,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
