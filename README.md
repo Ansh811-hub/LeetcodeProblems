@@ -192,4 +192,20 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
