@@ -51,6 +51,7 @@ Leetcode Important Interview Famous Questions
 | [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -113,6 +114,7 @@ Leetcode Important Interview Famous Questions
 | [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,4 +237,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
