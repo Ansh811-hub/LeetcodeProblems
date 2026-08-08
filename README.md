@@ -55,6 +55,7 @@ Leetcode Important Interview Famous Questions
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ Leetcode Important Interview Famous Questions
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
 | ------- |
