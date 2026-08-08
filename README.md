@@ -24,6 +24,7 @@ Leetcode Important Interview Famous Questions
 | [0008-string-to-integer-atoi](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
@@ -75,6 +76,7 @@ Leetcode Important Interview Famous Questions
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0263-ugly-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
@@ -168,6 +170,7 @@ Leetcode Important Interview Famous Questions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
