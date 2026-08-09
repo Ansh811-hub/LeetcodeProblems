@@ -60,6 +60,7 @@ Leetcode Important Interview Famous Questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
@@ -89,6 +90,7 @@ Leetcode Important Interview Famous Questions
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -182,6 +184,7 @@ Leetcode Important Interview Famous Questions
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -278,4 +281,12 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
