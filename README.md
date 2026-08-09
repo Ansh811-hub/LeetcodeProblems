@@ -60,6 +60,7 @@ Leetcode Important Interview Famous Questions
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -273,4 +274,5 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
