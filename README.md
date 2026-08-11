@@ -61,6 +61,7 @@ Leetcode Important Interview Famous Questions
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -96,6 +97,7 @@ Leetcode Important Interview Famous Questions
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2235-add-two-integers) |
@@ -161,6 +163,7 @@ Leetcode Important Interview Famous Questions
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -180,6 +183,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
