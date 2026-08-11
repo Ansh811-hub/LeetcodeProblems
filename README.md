@@ -62,6 +62,7 @@ Leetcode Important Interview Famous Questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -188,6 +189,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
