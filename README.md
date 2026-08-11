@@ -63,6 +63,7 @@ Leetcode Important Interview Famous Questions
 | [1480-running-sum-of-1d-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -269,6 +270,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
 | ------- |
