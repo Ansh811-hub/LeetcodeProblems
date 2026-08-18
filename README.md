@@ -28,6 +28,7 @@ Leetcode Important Interview Famous Questions
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
