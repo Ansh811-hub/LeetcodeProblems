@@ -102,6 +102,7 @@ Leetcode Important Interview Famous Questions
 | [0069-sqrtx](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -336,4 +337,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
