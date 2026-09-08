@@ -23,6 +23,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
@@ -41,6 +42,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -349,4 +351,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0319-bulb-switcher) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
