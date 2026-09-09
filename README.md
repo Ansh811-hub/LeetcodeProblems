@@ -126,6 +126,7 @@ Leetcode Important Interview Famous Questions
 | [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
