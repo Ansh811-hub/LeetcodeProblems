@@ -6,6 +6,7 @@ Leetcode Important Interview Famous Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -43,6 +44,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -261,6 +263,7 @@ Leetcode Important Interview Famous Questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
