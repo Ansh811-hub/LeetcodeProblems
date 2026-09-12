@@ -38,6 +38,7 @@ Leetcode Important Interview Famous Questions
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -77,6 +78,7 @@ Leetcode Important Interview Famous Questions
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
