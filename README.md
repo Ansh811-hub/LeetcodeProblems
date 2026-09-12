@@ -109,6 +109,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0319-bulb-switcher) |
@@ -225,6 +226,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -232,6 +234,7 @@ Leetcode Important Interview Famous Questions
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
