@@ -62,6 +62,7 @@ Leetcode Important Interview Famous Questions
 | [0136-single-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -190,6 +191,7 @@ Leetcode Important Interview Famous Questions
 | [0141-linked-list-cycle](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -374,5 +376,6 @@ Leetcode Important Interview Famous Questions
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
