@@ -270,6 +270,7 @@ Leetcode Important Interview Famous Questions
 | [0183-customers-who-never-order](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0595-big-countries) |
+| [1667-fix-names-in-a-table](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
