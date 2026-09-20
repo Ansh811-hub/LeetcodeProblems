@@ -31,6 +31,7 @@ Leetcode Important Interview Famous Questions
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
@@ -198,6 +199,7 @@ Leetcode Important Interview Famous Questions
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -224,6 +226,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
