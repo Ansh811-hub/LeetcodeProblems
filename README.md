@@ -70,6 +70,7 @@ Leetcode Important Interview Famous Questions
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -201,6 +202,7 @@ Leetcode Important Interview Famous Questions
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
@@ -267,6 +269,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -388,4 +391,8 @@ Leetcode Important Interview Famous Questions
 | [0219-contains-duplicate-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
