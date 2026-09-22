@@ -116,6 +116,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0263-ugly-number) |
@@ -152,6 +153,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
