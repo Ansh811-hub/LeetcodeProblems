@@ -88,6 +88,7 @@ Leetcode Important Interview Famous Questions
 | [1480-running-sum-of-1d-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1672-richest-customer-wealth) |
@@ -358,6 +359,7 @@ Leetcode Important Interview Famous Questions
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Ternary Search
 |  |
