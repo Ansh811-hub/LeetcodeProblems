@@ -284,6 +284,7 @@ Leetcode Important Interview Famous Questions
 | [0020-valid-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -313,6 +314,7 @@ Leetcode Important Interview Famous Questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -320,6 +322,7 @@ Leetcode Important Interview Famous Questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
