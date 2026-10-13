@@ -38,6 +38,7 @@ Leetcode Important Interview Famous Questions
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
@@ -227,6 +228,7 @@ Leetcode Important Interview Famous Questions
 | [0383-ransom-note](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1394-find-lucky-integer-in-an-array) |
