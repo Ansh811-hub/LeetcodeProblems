@@ -31,6 +31,7 @@ Leetcode Important Interview Famous Questions
 | [0020-valid-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
@@ -60,6 +61,7 @@ Leetcode Important Interview Famous Questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
@@ -113,6 +115,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -216,6 +219,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0001-two-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0202-happy-number) |
