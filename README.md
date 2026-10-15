@@ -22,6 +22,7 @@ Leetcode Important Interview Famous Questions
 | [0349-intersection-of-two-arrays](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Leetcode Important Interview Famous Questions
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +130,7 @@ Leetcode Important Interview Famous Questions
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
@@ -320,6 +323,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
