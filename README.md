@@ -156,6 +156,7 @@ Leetcode Important Interview Famous Questions
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2469-convert-the-temperature) |
@@ -281,6 +282,7 @@ Leetcode Important Interview Famous Questions
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 ## Number Theory
 |  |
 | ------- |
