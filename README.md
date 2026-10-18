@@ -106,6 +106,7 @@ Leetcode Important Interview Famous Questions
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
@@ -253,6 +254,7 @@ Leetcode Important Interview Famous Questions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -284,6 +286,7 @@ Leetcode Important Interview Famous Questions
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
