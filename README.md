@@ -92,6 +92,7 @@ Leetcode Important Interview Famous Questions
 | [0724-find-pivot-index](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -133,6 +134,7 @@ Leetcode Important Interview Famous Questions
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -157,6 +159,7 @@ Leetcode Important Interview Famous Questions
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
@@ -258,6 +261,7 @@ Leetcode Important Interview Famous Questions
 | [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,6 +269,7 @@ Leetcode Important Interview Famous Questions
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -285,6 +290,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -475,4 +481,12 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
