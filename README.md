@@ -83,6 +83,7 @@ Leetcode Important Interview Famous Questions
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 ## Recursion
@@ -223,6 +225,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -493,4 +496,12 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
