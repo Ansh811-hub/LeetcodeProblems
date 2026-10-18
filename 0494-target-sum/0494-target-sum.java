@@ -1,18 +1,29 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);
+
+        int total = 0;
 
         for (int num : nums) {
-            HashMap<Integer, Integer> next = new HashMap<>();
-            for (int sum : map.keySet()) {
-                next.put(sum + num,
-                    next.getOrDefault(sum + num, 0) + map.get(sum));
-                next.put(sum - num,
-                    next.getOrDefault(sum - num, 0) + map.get(sum));
-            }
-            map = next;
+            total += num;
         }
-        return map.getOrDefault(target, 0);
+
+        if (Math.abs(target) > total)
+            return 0;
+
+        if ((target + total) % 2 != 0)
+            return 0;
+
+        int sum = (target + total) / 2;
+
+        int[] dp = new int[sum + 1];
+        dp[0] = 1;
+
+        for (int num : nums) {
+            for (int j = sum; j >= num; j--) {
+                dp[j] += dp[j - num];
+            }
+        }
+
+        return dp[sum];
     }
 }
