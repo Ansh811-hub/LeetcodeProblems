@@ -82,6 +82,7 @@ Leetcode Important Interview Famous Questions
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
@@ -189,6 +190,7 @@ Leetcode Important Interview Famous Questions
 | [0053-maximum-subarray](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
@@ -483,6 +485,7 @@ Leetcode Important Interview Famous Questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
