@@ -16,6 +16,7 @@ Leetcode Important Interview Famous Questions
 | [0141-linked-list-cycle](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ Leetcode Important Interview Famous Questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -155,6 +157,7 @@ Leetcode Important Interview Famous Questions
 | [0050-powx-n](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0263-ugly-number) |
