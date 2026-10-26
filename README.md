@@ -20,6 +20,7 @@ Leetcode Important Interview Famous Questions
 | [0202-happy-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
@@ -82,6 +83,7 @@ Leetcode Important Interview Famous Questions
 | [0219-contains-duplicate-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0413-arithmetic-slices) |
@@ -223,6 +225,7 @@ Leetcode Important Interview Famous Questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
@@ -244,6 +247,7 @@ Leetcode Important Interview Famous Questions
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
@@ -500,6 +504,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
 |  |
 | ------- |
@@ -516,4 +521,8 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0494-target-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
