@@ -99,6 +99,7 @@ Leetcode Important Interview Famous Questions
 | [0724-find-pivot-index](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
