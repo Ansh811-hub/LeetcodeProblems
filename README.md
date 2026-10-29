@@ -98,6 +98,7 @@ Leetcode Important Interview Famous Questions
 | [0704-binary-search](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
@@ -372,6 +373,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
