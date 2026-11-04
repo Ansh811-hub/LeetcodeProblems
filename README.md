@@ -131,6 +131,7 @@ Leetcode Important Interview Famous Questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Leetcode Important Interview Famous Questions
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
