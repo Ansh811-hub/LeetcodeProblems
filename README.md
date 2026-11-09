@@ -130,6 +130,7 @@ Leetcode Important Interview Famous Questions
 | [2574-left-and-right-sum-differences](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -157,6 +158,7 @@ Leetcode Important Interview Famous Questions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -245,6 +247,7 @@ Leetcode Important Interview Famous Questions
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -511,6 +514,7 @@ Leetcode Important Interview Famous Questions
 | [0643-maximum-average-subarray-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Monotonic Stack
 |  |
 | ------- |
