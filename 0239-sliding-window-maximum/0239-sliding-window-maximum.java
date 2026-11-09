@@ -9,19 +9,14 @@ class Solution {
         );
 
         for(int i = 0; i < n; i++) {
-
             pq.offer(new int[]{nums[i], i});
-
-            // Remove elements outside the window
             while(!pq.isEmpty() && pq.peek()[1] <= i - k) {
                 pq.poll();
             }
-
             if(i >= k - 1) {
                 ans[i - k + 1] = pq.peek()[0];
             }
         }
-
         return ans;
     }
 }
