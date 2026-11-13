@@ -377,6 +377,7 @@ Leetcode Important Interview Famous Questions
 | [0595-big-countries](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1148-article-views-i) |
+| [1661-average-time-of-process-per-machine](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
