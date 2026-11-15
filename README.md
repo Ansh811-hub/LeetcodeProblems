@@ -54,6 +54,7 @@ Leetcode Important Interview Famous Questions
 | [1528-shuffle-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -401,6 +402,7 @@ Leetcode Important Interview Famous Questions
 | [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0860-lemonade-change) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
