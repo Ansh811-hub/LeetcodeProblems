@@ -27,6 +27,7 @@ Leetcode Important Interview Famous Questions
 | [0876-middle-of-the-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Leetcode Important Interview Famous Questions
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
@@ -374,6 +376,7 @@ Leetcode Important Interview Famous Questions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Database
 |  |
@@ -408,6 +411,7 @@ Leetcode Important Interview Famous Questions
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
@@ -520,6 +524,7 @@ Leetcode Important Interview Famous Questions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Brainteaser
 |  |
 | ------- |
