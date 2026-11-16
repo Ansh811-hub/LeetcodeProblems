@@ -48,6 +48,7 @@ Leetcode Important Interview Famous Questions
 | [0771-jewels-and-stones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -370,6 +371,7 @@ Leetcode Important Interview Famous Questions
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -402,6 +404,7 @@ Leetcode Important Interview Famous Questions
 | [0011-container-with-most-water](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
@@ -514,6 +517,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
