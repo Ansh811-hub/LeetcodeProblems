@@ -401,6 +401,7 @@ Leetcode Important Interview Famous Questions
 | [1683-invalid-tweets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1789-primary-department-for-each-employee) |
 ## Greedy
 |  |
 | ------- |
