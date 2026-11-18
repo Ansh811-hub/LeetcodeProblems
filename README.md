@@ -190,6 +190,7 @@ Leetcode Important Interview Famous Questions
 | [0633-sum-of-square-numbers](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0973-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1486-xor-operation-in-an-array) |
@@ -292,6 +293,7 @@ Leetcode Important Interview Famous Questions
 | [0451-sort-characters-by-frequency](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -585,6 +587,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0164-maximum-gap](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
