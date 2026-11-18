@@ -203,6 +203,7 @@ Leetcode Important Interview Famous Questions
 | [2413-smallest-even-multiple](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
