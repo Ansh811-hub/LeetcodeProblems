@@ -39,6 +39,7 @@ Leetcode Important Interview Famous Questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ Leetcode Important Interview Famous Questions
 | [0009-palindrome-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -275,6 +277,7 @@ Leetcode Important Interview Famous Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0136-single-number) |
@@ -354,6 +357,7 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1920-build-array-from-permutation) |
