@@ -54,6 +54,7 @@ Leetcode Important Interview Famous Questions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1108-defanging-an-ip-address) |
+| [1408-string-matching-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -123,6 +124,7 @@ Leetcode Important Interview Famous Questions
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
@@ -451,6 +453,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
