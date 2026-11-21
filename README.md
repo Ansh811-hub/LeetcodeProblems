@@ -402,6 +402,7 @@ Leetcode Important Interview Famous Questions
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0197-rising-temperature) |
