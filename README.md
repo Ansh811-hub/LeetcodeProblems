@@ -62,6 +62,7 @@ Leetcode Important Interview Famous Questions
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
@@ -138,6 +139,7 @@ Leetcode Important Interview Famous Questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2239-find-closest-number-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
@@ -449,6 +451,7 @@ Leetcode Important Interview Famous Questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
 | ------- |
