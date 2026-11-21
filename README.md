@@ -196,6 +196,7 @@ Leetcode Important Interview Famous Questions
 | [0258-add-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -491,10 +492,12 @@ Leetcode Important Interview Famous Questions
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -568,6 +571,7 @@ Leetcode Important Interview Famous Questions
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0319-bulb-switcher) |
 ## Trie
 |  |
@@ -638,4 +642,12 @@ Leetcode Important Interview Famous Questions
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0881-boats-to-save-people) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
