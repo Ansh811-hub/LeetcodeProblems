@@ -65,6 +65,7 @@ Leetcode Important Interview Famous Questions
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
