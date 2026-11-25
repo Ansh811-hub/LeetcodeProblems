@@ -155,6 +155,7 @@ Leetcode Important Interview Famous Questions
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Leetcode Important Interview Famous Questions
 | [3634-minimum-removals-to-balance-array](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -453,6 +455,7 @@ Leetcode Important Interview Famous Questions
 | [1903-largest-odd-number-in-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -518,6 +521,7 @@ Leetcode Important Interview Famous Questions
 | [1534-count-good-triplets](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3745-maximize-expression-of-three-elements) |
 ## Ternary Search
 |  |
 | ------- |
