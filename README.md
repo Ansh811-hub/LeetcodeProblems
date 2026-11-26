@@ -225,6 +225,7 @@ Leetcode Important Interview Famous Questions
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -376,6 +377,7 @@ Leetcode Important Interview Famous Questions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Ansh811-hub/LeetcodeProblems/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
